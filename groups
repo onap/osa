@@ -1,0 +1,5 @@
+# UUID                                                              	Group Name
+#
+global:Anonymous-Users                                              	Anonymous Users
+global:Registered-Users                                             	Registered Users
+ldap:cn=onap-gerrit-osa-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-osa-committers
