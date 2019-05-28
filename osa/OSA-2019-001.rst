@@ -1,0 +1,35 @@
+=====================================================
+OSA-2019-001: Number of XSS vulnerabilities in Portal
+=====================================================
+
+**Date:** 2019-05-28
+
+**CVE:** CVE-2019-12317
+
+**Severity:** Important
+
+Affects
+-------
+
+* Portal: Dublin and earlier
+
+Description
+-----------
+
+Jakub Botwicz from Samsung reported a number of vulnerabilities in ONAP Portal.
+By providing a crafted user input, an attacker is able to execute a script with the rights of other user.
+All ONAP setups are affected.
+
+Patches
+-------
+
+The number of XSS vulnerabilities is very large and not all of them are fixed yet thus we don't provide exactl list of patches for this OSA.
+
+Credits
+-------
+* Jakub Botwicz from Samsung
+
+References
+----------
+* `OJSI-15 <https://jira.onap.org/browse/OJSI-15>`_
+* `CVE-2019-12317 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12317>`_
