@@ -1,0 +1,39 @@
+=================================================================================================
+OSA-2019-007: APPC exposes Jolokia interface which allows to read and overwrite an arbitrary file
+=================================================================================================
+
+**Date:** 2019-05-28
+
+**CVE:** CVE-2019-12124
+
+**Severity:** Critical
+
+Affects
+-------
+
+* APPC: before Dublin
+
+Description
+-----------
+
+Radosław Żeszczuk from Samsung reported a vulnerability in APPC. By using exposed unprotected Jolokia interface an unauthenticated attacker can read or overwrite arbitrary file. All APPC setups are affected.
+
+Patches
+-------
+
+No exact patch provided by the maintainer. Issue fixed probably fixed with ODL upgrade. (Confirmed to not be present in Dublin)
+
+**Warning**
+Dublin release is not vulnerable for this attack because the Jolokia interface is protected with basic HTTP authentication.
+Unfortunately by default weak credentials are used which can be considered to be a security risk.
+
+Credits
+-------
+
+* Radosław Żeszczuk from Samsung
+
+References
+----------
+
+* `OJSI-63 <https://jira.onap.org/browse/OJSI-63>`_
+* `CVE-2019-12124 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12124>`_
