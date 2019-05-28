@@ -1,0 +1,40 @@
+====================================================================================
+OSA-2019-006: SDNC service allows for arbitrary code execution in sla/printAsGv form
+====================================================================================
+
+**Date:** 2019-05-28
+
+**CVE:** CVE-2019-12113
+
+**Severity:** Critical
+
+Affects
+-------
+
+* SDNC: before Dublin
+
+Description
+-----------
+
+Jakub Botwicz, Wojciech Rauner, Łukasz Wrochna and Radosław Żeszczuk from Samsung reported a vulnerability in SDNC. By executing sla/printAsGv with a crafted module parameter an authenticated user can execute arbitrary command. All SDNC setups which includes admportal are affected.
+
+Patches
+-------
+
+* `85232 <https://gerrit.onap.org/r/#/c/oom/+/85232/>`_
+
+**Warning**
+
+Above patch should be considered only as a temporary walkaround as it only prevents admportal from starting instead of fixing the issues.
+
+Credits
+-------
+* Jakub Botwicz from Samsung
+* Wojciech Rauner from Samsung
+* Łukasz Wrochna from Samsung
+* Radosław Żeszczuk from Samsung
+
+References
+----------
+* `OJSI-43 <https://jira.onap.org/browse/OJSI-43>`_
+* `CVE-2019-12113 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12113>`_
