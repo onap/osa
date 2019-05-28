@@ -1,0 +1,42 @@
+====================================
+OSA-2019-003: SQL Injections in SDNC
+====================================
+
+**Date:** 2019-05-28
+
+**CVE:** CVE-2019-12319
+
+**Severity:** Important
+
+Affects
+-------
+
+* SDNC: before Dublin
+
+Description
+-----------
+
+Jakub Botwicz, Wojciech Rauner, Łukasz Wrochna and Radosław Żeszczuk from Samsung reported a number of vulnerabilities in ONAP SDNC. By providing a crafted user input, an attacker (also unauthenticated) gains access to the service database. All ONAP setups are affected.
+
+Patches
+-------
+
+* `85232 <https://gerrit.onap.org/r/#/c/oom/+/85232/>`_
+
+**Warning**
+
+Above patch should be considered only as a temporary walkaround as it only prevents admportal from starting instead of fixing the issues.
+
+Credits
+-------
+
+* Jakub Botwicz from Samsung
+* Wojciech Rauner from Samsung
+* Łukasz Wrochna from Samsung
+* Radosław Żeszczuk from Samsung
+
+References
+----------
+
+* `OJSI-34 <https://jira.onap.org/browse/OJSI-34>`_
+* `CVE-2019-12319 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12319>`_
