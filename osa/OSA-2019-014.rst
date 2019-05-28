@@ -1,0 +1,35 @@
+=======================================================================================
+OSA-2019-014: SDC exposes JDWP outside of pod which allows for arbitrary code execution
+=======================================================================================
+
+**Date:** 2019-05-28
+
+**CVE:** CVE-2019-12119
+
+**Severity:** Critical
+
+Affects
+-------
+
+* SDC: Dublin and earlier
+
+Description
+-----------
+
+Radosław Żeszczuk from Samsung reported vulnerability in SDC. By accessing port 7000 of demo-sdc-sdc-wfd-fe pod an unauthenticated attacker who already has access to pod to pod communication may execute arbitrary code inside this pod. All OOM ONAP setups which includes SDC are affected.
+
+Patches
+-------
+
+No patch for this vulnerability has been proposed yet.
+
+Credits
+-------
+
+* Radosław Żeszczuk from Samsung
+
+References
+----------
+
+* `OJSI-80 <https://jira.onap.org/browse/OJSI-80>`_
+* `CVE-2019-12119 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12119>`_
