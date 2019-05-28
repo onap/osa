@@ -1,0 +1,45 @@
+=============================================================
+OSA-2019-020: Unprotected APIs/UIs exposed in Logging project
+=============================================================
+
+**Date:** 2019-05-28
+
+**CVE:** CVE-2019-12125
+
+**Severity:** Important
+
+Affects
+-------
+
+* Logging: Dublin and earlier
+
+Description
+-----------
+
+Jakub Botwicz,  Wojciech Rauner, Łukasz Wrochna and Radosław Żeszczuk from Samsung reported a number of vulnerabilities in ONAP Logging. By accessing one of:
+
+* 30253
+* 30234
+* 30290
+* 30254
+
+ports, an attacker gains full access to the respective ONAP services without any authentication. All ONAP OOM setups are affected.
+
+Patches
+-------
+
+No patch for this vulnerability has been proposed yet.
+
+Credits
+-------
+
+* Jakub Botwicz from Samsung
+* Wojciech Rauner from Samsung
+* Łukasz Wrochna from Samsung
+* Radosław Żeszczuk from Samsung
+
+References
+----------
+
+* `OJSI-200 <https://jira.onap.org/browse/OJSI-200>`_
+* `CVE-2019-12125 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12125>`_
