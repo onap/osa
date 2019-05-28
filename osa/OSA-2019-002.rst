@@ -1,0 +1,33 @@
+===================================
+OSA-2019-002: SQL Injection in APPC
+===================================
+
+**Date:** 2019-05-28
+
+**CVE:** CVE-2019-12316
+
+**Severity:** Important
+
+Affects
+-------
+
+* APPC: Dublin and earlier
+
+Description
+-----------
+
+Jakub Botwicz from Samsung reported a vulnerability in ONAP APPC. By providing a crafted user input to /cdtService/getDesigns form, an attacker gains access to the service database. All ONAP setups are affected.
+
+Patches
+-------
+
+No patch for this vulnerability has been proposed yet.
+
+Credits
+-------
+* Jakub Botwicz from Samsung
+
+References
+----------
+* `OJSI-25 <https://jira.onap.org/browse/OJSI-25>`_
+* `CVE-2019-12316 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12316>`_
