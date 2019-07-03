@@ -9,10 +9,21 @@ ONAP Security
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
 
+   ONAP Security <self>
+   process
+
+Reporting Vulnerabilities
+-------------------------
+
+If you discovered a potential vulnerability in ONAP we kindly ask you to report it to us as soon as possible.
+You can do this by creating a ticket in `OJSI jira <https://jira.onap.org/projects/OJSI>`_ project.
+To get more details about our vulnerability management process or learn about alternative communication channels please refer to :ref:`vm-process`.
 
 ONAP Security Advisories (OSA)
 ------------------------------
+
 You can find the complete list of published advisories here:
 
 .. toctree::
