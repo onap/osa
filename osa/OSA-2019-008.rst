@@ -21,7 +21,7 @@ Krzysztof Opasiak from Samsung reported a vulnerability in Portal. By executing 
 Patches
 -------
 
-*`88682 <https://gerrit.onap.org/r/c/portal/+/88682>`_
+* `88682 <https://gerrit.onap.org/r/c/portal/+/88682>`_
 
 Credits
 -------
