@@ -87,7 +87,7 @@ All the tasks mentioned below should be executed by VMS coordinator who is chose
 Reception
 ~~~~~~~~~
 
-A report can be received either as a ticket in `Vulnerability Reporting Jira Project <https://jira.onap.org/projects/OJSI>`_ or as a private encrypted email to one of the VMS members.
+A report can be received either as a ticket in `Vulnerability Reporting Jira Project <https://jira.onap.org/projects/OJSI>`_, email to `onap-security@lists.onap.org <onap-security@lists.onap.org>`_ or as a private encrypted email to one of the VMS members.
 
 Steps that has to be completed depend on reception method:
 
