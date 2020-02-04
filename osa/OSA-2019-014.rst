@@ -1,5 +1,6 @@
 .. This work is licensed under a Creative Commons Attribution 4.0 International License.
 .. Copyright 2019 Samsung Electronics
+
 =======================================================================================
 OSA-2019-014: SDC exposes JDWP outside of pod which allows for arbitrary code execution
 =======================================================================================
