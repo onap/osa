@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "08b67b0c_df6d2634",
+        "filename": "project.config",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-02-04T20:14:01Z",
+      "side": 1,
+      "message": "what are the consequences of this access rights modification? Who exactly will be able to view those changes?",
+      "revId": "6648ebefce3f3bbf8553482235b56eab503ba2c2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    }
+  ]
+}
