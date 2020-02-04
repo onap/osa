@@ -30,3 +30,4 @@ You can find the complete list of published advisories here:
    :maxdepth: 1
 
    osalist
+

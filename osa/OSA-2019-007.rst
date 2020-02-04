@@ -1,5 +1,6 @@
 .. This work is licensed under a Creative Commons Attribution 4.0 International License.
 .. Copyright 2019 Samsung Electronics
+
 =================================================================================================
 OSA-2019-007: APPC exposes Jolokia interface which allows to read and overwrite an arbitrary file
 =================================================================================================
