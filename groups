@@ -1,4 +1,5 @@
 # UUID                                                              	Group Name
 #
+ae38c666be78d9e8209c9812403d0ae15e1951af                            	Non-Interactive Users
 daebbf523be390041a1a9c0e340a6d833aae5043                            	GitHub Replication
 ldap:cn=onap-gerrit-osa-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-osa-committers
