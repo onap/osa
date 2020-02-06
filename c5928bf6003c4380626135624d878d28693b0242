@@ -16,6 +16,24 @@
       "revId": "c5928bf6003c4380626135624d878d28693b0242",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "48be834e_5490888f",
+        "filename": "docs/_static/css/ribbon.css",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 3213
+      },
+      "writtenOn": "2020-02-06T20:28:50Z",
+      "side": 1,
+      "message": "yes that is the plan, and also how we do it for odl, etc.",
+      "parentUuid": "e1b585b2_446cfbd4",
+      "revId": "c5928bf6003c4380626135624d878d28693b0242",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
     }
   ]
 }
