@@ -52,6 +52,24 @@
       "revId": "c5928bf6003c4380626135624d878d28693b0242",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "10a3eb41_dfbc6d71",
+        "filename": "docs/_static/css/ribbon.css",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-02-06T20:34:38Z",
+      "side": 1,
+      "message": "Wouldn\u0027t it make more sense if we include this as a submodule? Otherwise we will end up with hundred of copies of the same file and changing anything related to style would be a nightmare...",
+      "parentUuid": "eab37146_844049fa",
+      "revId": "c5928bf6003c4380626135624d878d28693b0242",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
     }
   ]
 }
