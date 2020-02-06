@@ -34,6 +34,24 @@
       "revId": "c5928bf6003c4380626135624d878d28693b0242",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "eab37146_844049fa",
+        "filename": "docs/_static/css/ribbon.css",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 3213
+      },
+      "writtenOn": "2020-02-06T20:30:41Z",
+      "side": 1,
+      "message": "To be less terse,\n\nmuch of the config now comes from https://github.com/lfit/releng-docs-conf\n\nbut afaik there is no way to use the pip package to include static files.",
+      "parentUuid": "48be834e_5490888f",
+      "revId": "c5928bf6003c4380626135624d878d28693b0242",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
     }
   ]
 }
