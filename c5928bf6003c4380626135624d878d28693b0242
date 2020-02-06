@@ -70,6 +70,24 @@
       "revId": "c5928bf6003c4380626135624d878d28693b0242",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa86cdc7_95a4b0df",
+        "filename": "docs/_static/css/ribbon.css",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 3213
+      },
+      "writtenOn": "2020-02-06T20:58:38Z",
+      "side": 1,
+      "message": "I agree in theory but I really dislike sub-modules, the ribbon has not changed in recent memory, should be fine imo.",
+      "parentUuid": "10a3eb41_dfbc6d71",
+      "revId": "c5928bf6003c4380626135624d878d28693b0242",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
     }
   ]
 }
