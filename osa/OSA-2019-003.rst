@@ -1,6 +1,8 @@
 .. This work is licensed under a Creative Commons Attribution 4.0 International License.
 .. Copyright 2019 Samsung Electronics
 
+:orphan:
+
 ====================================
 OSA-2019-003: SQL Injections in SDNC
 ====================================

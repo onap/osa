@@ -1,6 +1,8 @@
 .. This work is licensed under a Creative Commons Attribution 4.0 International License.
 .. Copyright 2019 Samsung Electronics
 
+:orphan:
+
 =============================================================================================================
 OSA-2019-016: VNFSDK exposes JDWP port on localhost which allows to gain root privileges inside the container
 =============================================================================================================

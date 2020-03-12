@@ -1,5 +1,5 @@
 .. This work is licensed under a Creative Commons Attribution 4.0 International License.
-.. Copyright 2019 Samsung Electronics
+.. Copyright 2019-2020 Samsung Electronics
 
 .. _onap-security:
 
