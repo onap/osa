@@ -24,7 +24,7 @@ To get more details about our vulnerability management process or learn about al
 ONAP Security Advisories (OSA)
 ------------------------------
 
-You can find the complete list of published advisories here:
+You can find the up to date list of published advisories here:
 
 .. toctree::
    :maxdepth: 1

@@ -26,7 +26,7 @@ Jakub Botwicz from Samsung reported a vulnerability in ONAP APPC. By providing a
 Patches
 -------
 
-No patch for this vulnerability has been proposed yet.
+* `90244 <https://gerrit.onap.org/r/c/appc/+/90244>`_
 
 Credits
 -------

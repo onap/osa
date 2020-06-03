@@ -16,7 +16,7 @@ OSA-2019-023: Unprotected APIs/UIs exposed in SO project
 Affects
 -------
 
-* SO: Dublin and earlier
+* SO: El Alto and earlier
 
 Description
 -----------
@@ -26,7 +26,7 @@ Jakub Botwicz, Wojciech Rauner, Łukasz Wrochna and Radosław Żeszczuk from Sam
 Patches
 -------
 
-No patch for this vulnerability has been proposed yet.
+Fix required several patches. More details can be found in `OJSI-203 <https://jira.onap.org/browse/OJSI-203>`_
 
 Credits
 -------

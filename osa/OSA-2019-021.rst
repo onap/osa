@@ -26,7 +26,7 @@ akub Botwicz, Wojciech Rauner, Łukasz Wrochna and Radosław Żeszczuk from Sams
 Patches
 -------
 
-No patch for this vulnerability has been proposed yet.
+* `95524 <https://gerrit.onap.org/r/#/c/oom/+/95524/>`_
 
 Credits
 -------

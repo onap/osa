@@ -16,7 +16,7 @@ OSA-2019-022: Unprotected APIs/UIs exposed in OOM project
 Affects
 -------
 
-* OOM: Dublin and earlier
+* OOM: El Alto and earlier
 
 Description
 -----------
@@ -26,7 +26,7 @@ Jakub Botwicz, Wojciech Rauner, Łukasz Wrochna and Radosław Żeszczuk from Sam
 Patches
 -------
 
-No patch for this vulnerability has been proposed yet.
+* `102737 <https://gerrit.onap.org/r/c/oom/+/102737>`_
 
 Credits
 -------
