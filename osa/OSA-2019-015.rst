@@ -26,7 +26,7 @@ Radosław Żeszczuk from Samsung reported vulnerability in VNFSDK. By accessing 
 Patches
 -------
 
-No patch for this vulnerability has been proposed yet.
+* `104335 <https://gerrit.onap.org/r/#/c/vnfsdk/refrepo/+/104335/>`_
 
 Credits
 -------

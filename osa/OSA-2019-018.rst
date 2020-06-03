@@ -26,7 +26,7 @@ Jakub Botwicz and Łukasz Wrochna from Samsung reported a number of vulnerabilit
 Patches
 -------
 
-No patch for this vulnerability has been proposed yet (work in progress).
+Issue fixed with major ONAP Portal rework in Frankfurt.
 
 Credits
 -------

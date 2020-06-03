@@ -26,7 +26,7 @@ Radosław Żeszczuk from Samsung reported vulnerability in SDC. By accessing por
 Patches
 -------
 
-No patch for this vulnerability has been proposed yet.
+* `94807 <https://gerrit.onap.org/r/#/c/oom/+/94807/>`_
 
 Credits
 -------
