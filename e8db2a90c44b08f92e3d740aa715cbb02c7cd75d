@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c38498d4_75d72e6c",
+        "filename": "osa/OSA-2019-002.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2020-06-03T22:09:06Z",
+      "side": 1,
+      "message": "Was this fixed in El Alto? if not, shouldn\u0027t it say \"El Alto and earlier\". The same comment applies to all of the other updated patches.",
+      "revId": "e8db2a90c44b08f92e3d740aa715cbb02c7cd75d",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
