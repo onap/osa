@@ -26,7 +26,7 @@ Radosław Żeszczuk from Samsung reported vulnerability in HOLMES. By accessing 
 Patches
 -------
 
-* `87090 <https://gerrit.onap.org/r/#/c/holmes/engine-management/+/87090/>`_
+* `87090 <https://gerrit.onap.org/r/c/holmes/engine-management/+/87090/>`_
 
 Credits
 -------
