@@ -301,4 +301,4 @@ References
 ----------
 * `Common Vulnerabilities and Exposure <https://cve.mitre.org/about/faqs.html>`_
 * `CVE numbering authorities <https://cve.mitre.org/cve/cna.html>`_
-* `CVE FAQ <https://cve.mitre.org/about/faqs.html#what_is_cve_identifier>`_
+* `CVE FAQ <https://www.cve.org/ResourcesSupport/FAQs#pc_introwhat_is_cve>`_
